@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/yulich81/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Netlify](https://admirable-marigold-b47e93.netlify.app/)
 
 ## My process
 
